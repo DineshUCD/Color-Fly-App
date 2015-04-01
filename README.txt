@@ -1,2 +1,2 @@
-Created in 2013. Now go play it.
+Created in 2013. The code "clones" square tiles from a parent square tile. Each tile is then flipped using jQuery
  
