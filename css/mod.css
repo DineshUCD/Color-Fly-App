@@ -1,0 +1,12 @@
+button img{
+	display: inline-block;
+}
+
+div {
+  height: 2.1em;
+  width: 2.1em;
+  background: rgba(255, 255, 240, 1.0);
+  display: inline-block;
+  margin: .1em;
+  opacity: 1;
+}
