@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/djayasan/pen/aduoi.
-
+Created in 2013. Now go play it.
  
